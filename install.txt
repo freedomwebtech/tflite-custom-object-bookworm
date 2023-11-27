@@ -1,0 +1,6 @@
+sudo python3.9 -m  pip install protobuf==3.20.*
+sudo python3.9 -m pip install --upgrade tflite-runtime==2.11.0
+sudo python3.9 -m pip install --upgrade tflite-support==0.4.2
+sudo apt-get install build-essential libcap-dev
+
+
